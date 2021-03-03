@@ -1,0 +1,12 @@
+{
+  "extends": [
+    "stylelint-config-standard",
+  ],
+  "rules": {
+    "declaration-colon-newline-after": null,
+    "value-list-max-empty-lines": null,
+    "value-keyword-case": null,
+    "no-descending-specificity": null
+  },
+  "syntax": "scss"
+}

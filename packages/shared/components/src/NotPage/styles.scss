@@ -1,0 +1,33 @@
+.container {
+  width: calc(100% - 4rem);
+  height: calc(100% - 4rem);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin: 2rem;
+
+  background-color: ${props => props.theme.colors.backgroundLight};
+  border-radius: 5px;
+
+  > h2 {
+    margin-top: 10px;
+    text-align: center;
+    color: ${props => props.theme.colors.primary};
+    margin-bottom: 18px;
+  }
+
+  > p {
+    font-size: 14px;
+    text-align: center;
+    color: ${props => props.theme.colors.font};
+  }
+
+  > button {
+    width: 125px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 25px;
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "private": true,
+  "name": "@shared/services",
+  "version": "0.1.0",
+  "main": "src/",
+  "dependencies": {
+    "@shared/utils": "*",
+    "axios": "^0.20.0"
+  }
+}
