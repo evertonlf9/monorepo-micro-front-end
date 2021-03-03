@@ -23,7 +23,7 @@ O principal objetivo do desafio é o desenvolvimento de um monorepo para utiliza
   
 - JavaScript
   - TypeScript
-  - [REACT] (https://pt-br.reactjs.org/) 
+  - [REACT](https://pt-br.reactjs.org/) 
   - [Ant Design](https://ng.ant.design/docs/introduce/en) 
 
 ## Informações Iniciais
