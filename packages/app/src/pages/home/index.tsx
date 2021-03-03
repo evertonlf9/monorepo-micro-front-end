@@ -23,7 +23,7 @@ const Home: React.FC = () => {
         <Menu.Item key="Marvel" icon={<AppstoreOutlined />}>
           <a href="/marvel">Marvel</a>
         </Menu.Item>
-        <Menu.Item key="Marvel" icon={<SettingOutlined />}>
+        <Menu.Item key="my-app" icon={<SettingOutlined />}>
           <a href="/myapp">My app</a>
         </Menu.Item>
       </Menu>

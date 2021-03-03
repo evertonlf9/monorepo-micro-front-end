@@ -22,7 +22,7 @@ O principal objetivo do desafio é o desenvolvimento de um monorepo para utiliza
   - [SCSS](https://sass-lang.com/)
   
 - JavaScript
-  - TypeScript
+  - [TypeScript](https://www.typescriptlang.org/)
   - [REACT](https://pt-br.reactjs.org/) 
   - [Ant Design](https://ng.ant.design/docs/introduce/en) 
 
